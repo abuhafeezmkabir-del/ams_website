@@ -1,0 +1,30 @@
+/* PAGE HEADER */
+/* .bg-success {
+    background-color: #0b7d3b !important;
+} */
+
+/* Section spacing */
+/* section {
+    padding: 60px 0;
+} */
+
+/* Headings */
+h2 {
+    color: #0b7d3b;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+/* Container max width */
+.container {
+    max-width: 1000px;
+}
+
+/* Footer */
+/* footer {
+    font-size: 14px;
+} */

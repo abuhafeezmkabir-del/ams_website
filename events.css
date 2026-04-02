@@ -1,0 +1,40 @@
+/* Header */
+/* .bg-success {
+    background-color: #0b7d3b !important;
+} */
+
+/* Section spacing */
+/* section {
+    padding: 60px 0;
+} */
+
+/* Event cards */
+.card {
+    border: none;
+    border-radius: 12px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Card hover effect */
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+/* Images */
+.card img {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px 12px 0 0;
+}
+
+/* Title */
+.card-title {
+    font-weight: 600;
+    color: #0b7d3b;
+}
+
+/* Footer */
+/* footer {
+    font-size: 14px;
+} */

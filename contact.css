@@ -1,0 +1,35 @@
+/* HEADER */
+/* .bg-success {
+    background-color: #0b7d3b !important;
+} */
+
+/* Form container */
+form {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+}
+
+/* Input styling */
+.form-control {
+    border-radius: 6px;
+    padding: 12px;
+}
+
+/* Button styling */
+.btn-success {
+    background-color: #0b7d3b;
+    border: none;
+    padding: 10px 25px;
+    font-weight: 500;
+}
+
+.btn-success:hover {
+    background-color: #095e2c;
+}
+
+/* Footer */
+/* footer {
+    font-size: 14px;
+} */

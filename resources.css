@@ -1,0 +1,39 @@
+/* PAGE HEADER */
+.bg-success {
+    background-color: #0b7d3b !important;
+}
+
+/* Section spacing */
+section {
+    padding: 60px 0;
+}
+
+/* Resource cards */
+.card {
+    border: none;
+    border-radius: 12px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect */
+.card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+/* Button styling */
+.btn-success {
+    background-color: #0b7d3b;
+    border: none;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+.btn-success:hover {
+    background-color: #095e2c;
+}
+
+/* Footer */
+footer {
+    font-size: 14px;
+}

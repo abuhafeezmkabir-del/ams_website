@@ -1,0 +1,54 @@
+/* GLOBAL FONT */
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+    font-size: 15px;
+}
+
+.navbar-brand span {
+    font-size: 18px;
+}
+
+/* GLOBAL GREEN COLOR */
+.bg-success {
+    background-color: #0b7d3b !important;
+}
+
+.btn-success {
+    background-color: #0b7d3b;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #095e2c;
+}
+
+/* SECTION SPACING */
+section {
+    padding: 60px 0;
+}
+
+/* HEADINGS */
+h1, h2, h3, h4 {
+    font-weight: 700;
+}
+
+/* CARDS */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+/* FOOTER */
+footer {
+    font-size: 14px;
+}
